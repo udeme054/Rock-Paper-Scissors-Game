@@ -1,4 +1,4 @@
-# Rock Paper Scissors Game
+# Rock Paper Scissors Game 
 
 A single-player Rock Paper Scissors game built with Python and Tkinter. The player types a choice, the computer picks at random, and the game shows who won.
 
